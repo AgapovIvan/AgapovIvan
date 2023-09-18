@@ -33,8 +33,8 @@ I look forward to the opportunity to apply my knowledge and experience in practi
 ### 📁 Test documentation:
 
 <div>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/confluence.png" alt="confluence"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" title="jira" alt="jira"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/confluence.png" title="confluence" alt="confluence"/>
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
 </div>
 
