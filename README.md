@@ -33,8 +33,7 @@
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://icons8.com/icon/gYRR6rys6REq/confluence" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/confluence.png" alt="confluence"/>
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
 </div>
 
