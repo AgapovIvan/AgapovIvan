@@ -4,21 +4,21 @@
 
 ### 👨‍💻 Обо мне:
 
- Я начинающий тестировщик(студент), прохожу курсы на платформе Skypro и Udemy. 
-  
-  С момента, как я начал учиться в области тестирования, я погрузился в увлекательную исследовательскую работу, которая помогает обеспечить качество программных продуктов. 
-  
-  За время обучения я приобрел навыки в области тестирования, включая создание тестовых сценариев, выполнение тестов, а также отслеживание и документирование найденных дефектов. 
-  
-  Я горжусь своими достижениями в области тестирования и стремлюсь развивать свои навыки, чтобы продолжать вносить вклад в качество программных продуктов и помогать им стать лучше.
-  
-  С нетерпением жду возможности применить свои знания и опыт в практике и присоединиться к команде, где я смогу продолжать расти и развиваться в мире тестирования.
+I am a beginner tester (student) currently taking courses on the Skypro and Udemy platforms.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@иванагапов-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B0%D0%B3%D0%B0%D0%BF%D0%BE%D0%B2-333ab527b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agapovivand33@gmail.com)
+Since I started studying in the field of software testing, I have immersed myself in fascinating exploratory work that helps ensure the quality of software products.
+
+During my studies, I have acquired skills in software testing, including creating test scenarios, conducting tests, and tracking and documenting defects.
+
+I take pride in my achievements in the field of testing and am committed to further developing my skills to continue contributing to the quality of software products and helping them improve.
+
+I look forward to the opportunity to apply my knowledge and experience in practice and to join a team where I can continue to grow and develop in the world of testing.
+
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@иванагапов-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B0%D0%B3%D0%B0%D0%BF%D0%BE%D0%B2-333ab527b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agapovivand33@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
    <div id="badges">
       <a href="https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B0%D0%B3%D0%B0%D0%BF%D0%BE%D0%B2-333ab527b/" target="_blank">
@@ -30,7 +30,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Test documentation:
 
 <div>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/confluence.png" alt="confluence"/>
@@ -39,29 +39,13 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
-
+### 🛠 Tester's tools:
   <div>
     <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-  </div>
-
----
-
-### 📱 Тестирование мобильных приложений:
-
-<div>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-</div>
-
-
----
-
-### 💾 Работа с данными:
-
-<div>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="postgresql" alt="postgreSQL" width="40" height="40"/>&nbsp
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="postgresql" alt="postgreSQL" width="40" height="40"/>&nbsp
 </div>
 
 ---
