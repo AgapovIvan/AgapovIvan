@@ -47,7 +47,7 @@ I look forward to the opportunity to apply my knowledge and experience in practi
     <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="postgresql" alt="postgreSQL" width="40" height="40"/>&nbsp
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp
 
 </div>
 
