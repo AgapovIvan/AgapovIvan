@@ -14,7 +14,7 @@ I take pride in my achievements in the field of testing and am committed to furt
 
 I look forward to the opportunity to apply my knowledge and experience in practice and to join a team where I can continue to grow and develop in the world of testing.
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@иванагапов-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B0%D0%B3%D0%B0%D0%BF%D0%BE%D0%B2-333ab527b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agapovivand33@gmail.com)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@иванагапов-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agapovivan33/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agapovivand33@gmail.com)
 
 ---
 
