@@ -17,7 +17,8 @@ I look forward to the opportunity to apply my knowledge and experience in practi
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@иванагапов-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agapovivan33/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:agapovivand33@gmail.com)
 
 ---
-
+### 📁 [Qa_portfolio](https://github.com/AgapovIvan/QA_portfolio)
+---
 ### 🤝 Social media:
 
    <div id="badges">
