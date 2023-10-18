@@ -1,10 +1,9 @@
-# Привет, меня зовут Иван!
-![Пример гифки](result(1).gif)
+<div id="header" align="center">
+  <img src="https://github.com/AgapovIvan/AgapovIvan/blob/main/result%20(2).gif" width="700"/>
+</div>
 
 
----
-
-### 👨‍💻 Обо мне:
+### 👨‍💻 About me:
 
 I am a beginner tester currently taking courses on the Skypro and Udemy platforms.
 
@@ -57,7 +56,7 @@ I look forward to the opportunity to apply my knowledge and experience in practi
 ---
 
 
-### 💻 Пройденные курсы:
+### 💻 Completed courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: | 
