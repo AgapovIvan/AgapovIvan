@@ -1,10 +1,10 @@
-# Привет, меня зовут Иван!!!
+# Привет, меня зовут Иван!
 
 ---
 
 ### 👨‍💻 Обо мне:
 
-I am a beginner tester (student) currently taking courses on the Skypro and Udemy platforms.
+I am a beginner tester currently taking courses on the Skypro and Udemy platforms.
 
 Since I started studying in the field of software testing, I have immersed myself in fascinating exploratory work that helps ensure the quality of software products.
 
@@ -61,7 +61,7 @@ I look forward to the opportunity to apply my knowledge and experience in practi
 | ----------------------------------------------------------------| :---------------: | 
 | sky.pro/Инженер по тестированию с нуля                          | 9марта2023 - ? |
 | udemy.com/Тестировщик с нуля 2023. Web/Mobile, Postman, SQL, Git, Bash | 10/08/2023 - 23/09/2023| 
-
+| udemy.com/Git & GitHub for QA Engineer | 10/09/2023 - 10/10/2023| 
 
 ---
 
