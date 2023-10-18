@@ -60,7 +60,7 @@ I look forward to the opportunity to apply my knowledge and experience in practi
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: | 
-| sky.pro/Инженер по тестированию с нуля                          | 9марта2023 - ? |
+| sky.pro/Инженер по тестированию                          | 9марта2023 - ? |
 | udemy.com/Тестировщик с нуля 2023. Web/Mobile, Postman, SQL, Git, Bash | 10/08/2023 - 23/09/2023| 
 | udemy.com/Git & GitHub for QA Engineer | 10/09/2023 - 10/10/2023| 
 
