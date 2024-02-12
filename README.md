@@ -68,8 +68,8 @@ I look forward to the opportunity to apply my knowledge and experience in practi
 
 ### Сертификаты:
 <div>
-    <img src="https://skills-s3-prod.s3.eu-central-1.amazonaws.com/dc3ab3f717ad412cf892b39e68096f82.jpg"" title="SkyproQA" alt="SkyproQA" width="1000" height="1000"/>&nbsp
-    <img src="https://skills-s3-prod.s3.eu-central-1.amazonaws.com/8e62f12471bb2f1462af857f513adf02.png?1707745692983" title="SkyproAQA" alt="SkyproAQA" width="1000" height="1000"/>&nbsp
+    <img src="https://skills-s3-prod.s3.eu-central-1.amazonaws.com/dc3ab3f717ad412cf892b39e68096f82.jpg"" title="SkyproQA" alt="SkyproQA" width="500" height="500"/>&nbsp
+    <img src="https://skills-s3-prod.s3.eu-central-1.amazonaws.com/8e62f12471bb2f1462af857f513adf02.png?1707745692983" title="SkyproAQA" alt="SkyproAQA" width="500" height="500"/>&nbsp
     
 </div>
 
