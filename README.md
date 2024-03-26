@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About me:
 
-I am a beginner tester.
+I am QA Engineer.
 
 Since I started studying in the field of software testing, I have immersed myself in fascinating exploratory work that helps ensure the quality of software products.
 
